@@ -12,7 +12,7 @@
 
 <img src="https://i.ibb.co/SJGzRCX/Screenshot-25.png"><br>
     
-<center><b>else the page is expired & you will be logged OUT!</b></center>
+<center><b>else the page is expired & you will be logged OUT!</b></center><br>
 
 <img src="https://i.ibb.co/z49CNgK/Screenshot-28.png"><br>
 
