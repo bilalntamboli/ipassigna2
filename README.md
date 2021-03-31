@@ -1,0 +1,17 @@
+<b>1) login with given Credentials<b>
+
+   Username : bilal
+   Password : 123
+
+<img src="https://i.ibb.co/mGkB6W2/Screenshot-24.png">
+
+
+<b>1) then you need to enter given details in 1 Minute else the page is expired & you will be logged OUT!<b>
+
+<img src="https://i.ibb.co/SJGzRCX/Screenshot-25.png"><br>
+
+<img src="https://i.ibb.co/z49CNgK/Screenshot-28.png">
+
+<b>If Your Succefully Entered Your Details in 1 Minute then your entered details will be displyed on next page</br>
+
+<img src="https://i.ibb.co/rxVn9WB/Screenshot-29.png">
