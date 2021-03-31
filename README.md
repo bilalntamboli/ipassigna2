@@ -12,9 +12,9 @@
 
 <img src="https://i.ibb.co/SJGzRCX/Screenshot-25.png"><br>
     
-<center><b>else the page is expired & you will be logged OUT!</b></center><br>
+<b>else the page is expired & you will be logged OUT!</b><br>
 
-<img src="https://i.ibb.co/z49CNgK/Screenshot-28.png"><br>
+<br><img src="https://i.ibb.co/z49CNgK/Screenshot-28.png"><br>
 
 <b>3) If Your Succefully Entered Your Details in 1 Minute then your entered details will be displyed on next page :)</br>
 
